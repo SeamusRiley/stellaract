@@ -1,0 +1,47 @@
+# Stellaract, LLC — standalone site for stellaract.llc
+title: "Stellaract"
+description: "Stellaract, LLC — design and build"
+url: "https://stellaract.llc"
+baseurl: ""
+
+minimal_mistakes_skin: default
+search: false
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+timezone: America/Chicago
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-redirect-from
+
+favicon: "/assets/images/home-favicon-bw.png"
+
+footer:
+  links: []
+
+defaults:
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      permalink: /:basename/
+
+# Fonts
+fonts:
+  body: Montserrat, sans-serif
+  heading: Montserrat, sans-serif
+
+google_fonts:
+  - family: Montserrat
+    weights: "400,700"
