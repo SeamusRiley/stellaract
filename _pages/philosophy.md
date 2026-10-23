@@ -49,6 +49,6 @@ No imitation finish materials. No monochrome color pallets.
 
 ## Ella's Rule
 
-Everything you create at this company must be of the quality that you would make something if you were making it for the love of your life—the most adored person in your world. Whether your Ella is a crush, a partner, a daughter, or son, let that which you create here be a gift from the highest within you to the highest thing on Earth.
+Everything you create at this company must be of the quality that you would make something if you were making it for the love of your life—the most adored person in your world. Whether your Ella is a crush, a partner, a daughter, or son, let that which you create here be a gift from the highest within you to the highest thing in the universe.
 
 *At St<u>ella</u>ract, Ella is at the center of all we do.*
