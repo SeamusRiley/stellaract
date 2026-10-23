@@ -24,4 +24,4 @@ Seamus graduated at the top of his class in Architectural Technology and spent t
 
 **Scheduling Coordinator**
 
-Nova keeps Stellaract running on paper: the calendar, the correspondence, and the lists. She schedules the work, answers the email, and makes sure nothing quietly falls off. She works remotely and can be reached at novagives@gmail.com or 608 571 5147.
+Nova keeps Stellaract running on paper: the calendar, the correspondence, and the lists. She schedules appointments, answers email, and makes sure nothing quietly falls off. She works remotely and can be reached at novagives@gmail.com or 608 571 5147.
