@@ -17,10 +17,15 @@ Most companies have a mission statement, a values list, a vision. At Stellaract 
 
 A building without a structure is like a story without a plot. At Stellaract we design integrated buildings with expressed structural elements that harmonize with the building's program, reduce part count, and widen clear-spans for windows and doors.
 
-<figure style="text-align: center;">
+<div style="display: flex; gap: 1rem; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
+<figure style="text-align: center; flex: 1 1 300px; max-width: 48%; margin: 0;">
   <img src="/assets/images/post-frame.jpg" alt="Timber structure under construction" style="max-width: 100%; height: auto;">
   <figcaption>Photo via <a href="https://woodcentral.com.au/portland-timber-hub-blueprint/">Wood Central, "Portland Timber Hub Named the Model for Victoria's Mill Towns"</a></figcaption>
 </figure>
+<figure style="text-align: center; flex: 1 1 300px; max-width: 48%; margin: 0;">
+  <img src="/assets/images/stellaract-image.jpg" alt="Stellaract's own work" style="max-width: 100%; height: auto;">
+</figure>
+</div>
 
 ## Design-Build
 
