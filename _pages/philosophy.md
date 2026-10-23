@@ -17,6 +17,11 @@ Most companies have a mission statement, a values list, a vision. At Stellaract 
 
 A building without a structure is like a story without a plot. At Stellaract we design integrated buildings with expressed structural elements that harmonize with the building's program, reduce part count, and widen clear-spans for windows and doors.
 
+<figure style="text-align: center;">
+  <img src="/assets/images/post-frame.jpg" alt="Timber structure under construction" style="max-width: 100%; height: auto;">
+  <figcaption>Photo via <a href="https://woodcentral.com.au/portland-timber-hub-blueprint/">Wood Central, "Portland Timber Hub Named the Model for Victoria's Mill Towns"</a></figcaption>
+</figure>
+
 ## Design-Build
 
 The title "Architect" comes from the Greek "arkhi" meaning "chief" and "tekton" meaing "builder", "carpenter", or "mason". Unfortunately too few "architects" today are masters of building. More often they are masters of presenting, designing, drawing, specifying, and regulatory compliance, and building is someone else's job. At Stellaract we believe that design cannot be divorced from execution, so we prefer whenever possible to build our own work.
