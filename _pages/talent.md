@@ -30,4 +30,4 @@ Reach Seamus at <a href="mailto:s.rileybyrne@gmail.com">s.rileybyrne@gmail.com</
 
 **Scheduling Coordinator**
 
-Nova keeps Stellaract running on paper: the calendar, the correspondence, and the lists. She schedules appointments, answers email, and makes sure nothing quietly falls off. She works remotely, loves flowers and photography, and can be reached at <a href="mailto:novagives@gmail.com">novagives@gmail.com</a> or <a href="tel:+16085715147">608 571 5147</a>.
+Nova keeps Stellaract running on paper. She schedules appointments, answers email, and makes lists to ensure nothing quietly falls off. She works remotely, loves flowers and photography, and can be reached at <a href="mailto:novagives@gmail.com">novagives@gmail.com</a> or <a href="tel:+16085715147">608 571 5147</a>.
