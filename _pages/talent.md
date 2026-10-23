@@ -26,7 +26,7 @@ Reach Seamus at <a href="mailto:s.rileybyrne@gmail.com">s.rileybyrne@gmail.com</
   <img src="/assets/images/chicory.jpg" alt="Chicory, for Nova Ives" style="width: 260px; height: 260px; object-fit: cover; border-radius: 50%;">
 </div>
 
-## Nova G. Ives
+<img src="/assets/images/nova-signature.png" alt="Nova G. Ives" style="max-width: 180px; width: 100%; height: auto;">
 
 **Scheduling Coordinator**
 
