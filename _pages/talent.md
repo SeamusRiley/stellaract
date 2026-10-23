@@ -1,10 +1,14 @@
 ---
-title: "Talent"
+title: ""
 permalink: /talent/
 layout: single
 author_profile: false
 classes: wide
 ---
+
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="/assets/images/talent-header.png" alt="Stellaract Talent" style="max-width: 400px; width: 100%; height: auto;">
+</div>
 
 <div style="text-align: center; margin-bottom: 1rem;">
   <img src="/assets/images/bio-photo.jpg" alt="Seamus Riley" style="width: 260px; height: 260px; object-fit: cover; border-radius: 50%;">
