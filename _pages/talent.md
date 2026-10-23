@@ -14,7 +14,7 @@ classes: wide
 
 **Designer, Builder, Founder**
 
-Architecture guy from the midwest. Big on living.
+Seamus graduated at the top of his class in Architectural Technology and spent the first six years of his career drafting hospitals and studying philosophy. In his free time he likes to dance and post on Twitter.
 
 <div style="text-align: center; margin: 2.5rem 0 1rem;">
   <img src="/assets/images/chicory.jpg" alt="Chicory, for Nova Ives" style="width: 260px; height: 260px; object-fit: cover; border-radius: 50%;">
