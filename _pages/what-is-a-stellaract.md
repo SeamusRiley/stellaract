@@ -18,10 +18,12 @@ When I was designing my first buildings as a child my older brother used to peer
 
 The Stellaract vision is proudly monist. I do not believe in fragile “ideals” that work in theory, but crumble to pieces in practice. Neither do I entertain the idea that there is a boring, dutiful, paper-pushing, practical side to life and design that exists separate from a high, sparkling, beautiful, and unsustainable ideal. On the contrary, there is nothing less practical and less sustainable to me than to sacrifice beauty to the doldrums of expedience. I absolutely insist on being both a star and a square, and my designs have to be stellaract too. If a design is beautiful but doesn’t work well, or vice versa, into the trash can it goes. That is the stellaract way.
 
+<img src="/assets/images/seamus-signature.svg" alt="Seamus Riley" style="max-width: 240px; width: 100%; height: auto;">
+
 ---
 
-**stellaract** — *noun.* A shape that combines a star and a square.
+**stellaract** (/ˈstɛlərækt/, *STEL-uh-rakt*)
 
-**stellaract** — *adjective.* Integrating both facts and ideals.
+*noun* — A shape that combines a star and a square.
 
-<img src="/assets/images/seamus-signature.svg" alt="Seamus Riley" style="max-width: 240px; width: 100%; height: auto;">
+*adjective* — Integrating both facts and ideals.
