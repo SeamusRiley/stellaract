@@ -20,6 +20,8 @@ classes: wide
 
 Seamus graduated at the top of his class in Architectural Technology and spent the first six years of his career drafting hospitals and studying philosophy. In his free time he likes to dance and post on Twitter.
 
+Reach Seamus at <a href="mailto:s.rileybyrne@gmail.com">s.rileybyrne@gmail.com</a> or <a href="tel:+16088432556">608 843 2556</a>.
+
 <div style="text-align: center; margin: 2.5rem 0 1rem;">
   <img src="/assets/images/chicory.jpg" alt="Chicory, for Nova Ives" style="width: 260px; height: 260px; object-fit: cover; border-radius: 50%;">
 </div>
@@ -28,4 +30,4 @@ Seamus graduated at the top of his class in Architectural Technology and spent t
 
 **Scheduling Coordinator**
 
-Nova keeps Stellaract running on paper: the calendar, the correspondence, and the lists. She schedules appointments, answers email, and makes sure nothing quietly falls off. She works remotely and can be reached at novagives@gmail.com or 608 571 5147.
+Nova keeps Stellaract running on paper: the calendar, the correspondence, and the lists. She schedules appointments, answers email, and makes sure nothing quietly falls off. She works remotely and can be reached at <a href="mailto:novagives@gmail.com">novagives@gmail.com</a> or <a href="tel:+16085715147">608 571 5147</a>.
