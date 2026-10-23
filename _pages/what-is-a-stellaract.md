@@ -24,6 +24,5 @@ The Stellaract vision is proudly monist. I do not believe in fragile “ideals�
 
 **stellaract** (/ˈstɛlərækt/, *STEL-uh-rakt*)
 
-*noun* — A shape that combines a star and a square.
-
-*adjective* — Integrating both facts and ideals.
+1. *noun* — A shape that combines a star and a square.
+2. *adjective* — Integrating both facts and ideals.
