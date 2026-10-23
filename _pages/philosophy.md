@@ -6,7 +6,7 @@ author_profile: false
 classes: wide
 ---
 
-Stellaract's public-facing company policies:
+Most companies have a mission statement, a values list, a vision. At Stellaract we package all such things into a single integrated philosophy of good architecture. Our philosophy of architecture informs what we build, how we build it, and why we build it.
 
 - [Post-Frame](#post-frame)
 - [Design-Build](#design-build)
@@ -15,11 +15,11 @@ Stellaract's public-facing company policies:
 
 ## Post-Frame
 
-Post-frame construction is the honest way to put up a working building. Posts in the ground carry the load, so you get wide clear spans with less material, fewer pieces, and a frame that goes up fast. For shops, sheds, and work rooms it is the structure we reach for first: engineered to the site, and built to be maintained, not just to be new.
+A building without a structure is like a story without a plot. At Stellaract we design integrated buildings with expressed structural elements that harmonize with the building's program, reduce part count, and widen clear-spans for windows and doors.
 
 ## Design-Build
 
-Stellaract designs what it builds and builds what it designs. One contract, one point of responsibility, and the person who drew your building is the person standing in it with you at the end. Nothing is lost between a designer's intentions and a builder's shortcuts, because they are the same hands.
+The title "Architect" comes from the Greek "arkhi" meaning "chief" and "tekton" meaing "builder", "carpenter", or "mason". Unfortunately too few "architects" today are masters of building. More often they are masters of presenting, designing, drawing, specifying, and regulatory compliance, and building is someone else's job. At Stellaract we believe that design cannot be divorced from execution, so we prefer whenever possible to build our own work.
 
 ## Finishes
 
