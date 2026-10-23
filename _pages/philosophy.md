@@ -35,6 +35,14 @@ The title "Architect" comes from the Greek "arkhi" meaning "chief" and "tekton" 
 
 No imitation finish materials. No monochrome color pallets.
 
+<figure style="text-align: center; margin: 0;">
+<div style="display: flex; gap: 1rem; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
+  <img src="/assets/images/finishes-starship-1.jpg" alt="The Starship: wood paneling and a compass rose inlaid in the floor" style="flex: 1 1 300px; max-width: 48%; height: auto;">
+  <img src="/assets/images/finishes-starship-2.jpg" alt="The Starship: desk nook with wood trim and garden windows" style="flex: 1 1 300px; max-width: 48%; height: auto;">
+</div>
+<figcaption>From The Starship by Stellaract</figcaption>
+</figure>
+
 ## Ella's Rule
 
 Everything you create at this company must be of the quality that you would make something if you were making it for the love of your life—the most adored person in your world. Whether your Ella is a crush, a partner, a daughter, or son, let that which you create here be a gift from the highest within you to the highest thing on Earth.
