@@ -14,7 +14,7 @@ Most companies have a mission statement, a values list, a vision. At Stellaract 
 
 - [Post-Frame](#post-frame)
 - [Design-Build](#design-build)
-- [Finishes](#finishes)
+- [Real Finishes](#real-finishes)
 - [Ella's Rule](#ellas-rule)
 
 ## Post-Frame
@@ -35,7 +35,7 @@ A building without a structure is like a story without a plot. At Stellaract we 
 
 The title "Architect" comes from the Greek "arkhi" meaning "chief" and "tekton" meaing "builder", "carpenter", or "mason". Unfortunately too few "architects" today are masters of building. More often they are masters of presenting, designing, drawing, specifying, and regulatory compliance, and building is someone else's job. At Stellaract we believe that design cannot be divorced from execution, so we prefer whenever possible to build our own work.
 
-## Finishes
+## Real Finishes
 
 No imitation finish materials. No monochrome color pallets.
 
@@ -51,4 +51,4 @@ No imitation finish materials. No monochrome color pallets.
 
 Everything you create at this company must be of the quality that you would make something if you were making it for the love of your life—the most adored person in your world. Whether your Ella is a crush, a partner, a daughter, or son, let that which you create here be a gift from the highest within you to the highest thing on Earth.
 
-*At Stellaract, Ella is at the center of all we do.*
+*At St<u>ella</u>ract, Ella is at the center of all we do.*
