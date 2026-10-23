@@ -48,7 +48,7 @@ feature_row_3:
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <img src="/assets/images/Catalog/CatalogLogo.png" alt="Stellaract Header Logo" style="max-width: 100%; height: auto;">
+  <img src="/assets/images/Catalog/CatalogLogo.png" alt="Stellaract Header Logo" style="max-width: 50%; height: auto;">
 </div>
 
 {% include feature_row id="feature_row_1" %}
