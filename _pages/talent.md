@@ -7,7 +7,7 @@ classes: wide
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <img src="/assets/images/talent-header.png" alt="Stellaract Talent" style="max-width: 400px; width: 100%; height: auto;">
+  <img src="/assets/images/talent-header.png" alt="Stellaract Talent" style="max-width: 310px; width: 100%; height: auto;">
 </div>
 
 <div style="text-align: center; margin-bottom: 1rem;">
