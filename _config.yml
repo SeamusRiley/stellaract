@@ -1,5 +1,6 @@
 # Stellaract, LLC — standalone site for stellaract.llc
 title: "Stellaract"
+masthead_title: "Catalog"
 description: "Stellaract, LLC — design and build"
 url: "https://stellaract.llc"
 baseurl: ""
