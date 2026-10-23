@@ -12,6 +12,7 @@ classes: wide
 
 Most companies have a mission statement, a values list, a vision. At Stellaract we package all such things into a single integrated philosophy of good architecture. Our philosophy of architecture informs what we build, how we build it, and why we build it.
 
+- [What is a Stellaract?](/what-is-a-stellaract/)
 - [Post-Frame](#post-frame)
 - [Design-Build](#design-build)
 - [Real Finishes](#real-finishes)
