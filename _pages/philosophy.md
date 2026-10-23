@@ -1,10 +1,14 @@
 ---
-title: "Philosophy"
+title: ""
 permalink: /philosophy/
 layout: single
 author_profile: false
 classes: wide
 ---
+
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="/assets/images/philosophy-header.png" alt="Stellaract Philosophy" style="max-width: 440px; width: 100%; height: auto;">
+</div>
 
 Most companies have a mission statement, a values list, a vision. At Stellaract we package all such things into a single integrated philosophy of good architecture. Our philosophy of architecture informs what we build, how we build it, and why we build it.
 
