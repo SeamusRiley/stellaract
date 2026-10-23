@@ -18,7 +18,7 @@ classes: wide
 
 **Designer, Builder, Founder**
 
-Seamus graduated at the top of his class in Architectural Technology and spent the first six years of his career drafting hospitals and studying philosophy. In his free time he likes to dance and post on Twitter.
+Seamus graduated at the top of his class in Architectural Technology and spent the first six years of his career drafting hospitals and studying philosophy. In 2026 he quit his day job and founded Stellaract to do architecture his own way. In his free time he likes to dance and post on Twitter.
 
 Reach Seamus at <a href="mailto:s.rileybyrne@gmail.com">s.rileybyrne@gmail.com</a> or <a href="tel:+16088432556">608 843 2556</a>.
 
