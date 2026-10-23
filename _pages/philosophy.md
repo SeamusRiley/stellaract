@@ -33,7 +33,7 @@ A building without a structure is like a novel without a plot. At Stellaract we 
 
 ## Design-Build
 
-The title "Architect" comes from the Greek "arkhi" meaning "chief" and "tekton" meaing "builder", "carpenter", or "mason". Unfortunately too few "architects" today are masters of building. More often they are masters of presenting, designing, drawing, specifying, and regulatory compliance, and building is someone else's job. At Stellaract we believe that design cannot be divorced from execution, so we prefer whenever possible to build our own work.
+The title "architect" comes from the Greek "arkhi" meaning chief and "tekton" meaing builder, carpenter, or mason. Unfortunately too few architects today are masters of building. More often they are masters of presenting, designing, drawing, specifying, and regulatory compliance, and building is someone else's job. At Stellaract we believe that design cannot be divorced from execution, so we prefer whenever possible to build our own work.
 
 ## Real Finishes
 
