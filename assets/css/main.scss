@@ -20,3 +20,9 @@ h1, h2, h3, h4, h5, h6,
 .feature__item-title {
   font-family: 'Quicksand', sans-serif;
 }
+/* 3. No sidebar on this site: stop the theme reserving 300px for one,
+      which pushed page content to the right on wide screens */
+.layout--single .page {
+  float: none;
+  width: 100%;
+}
