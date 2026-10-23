@@ -1,1 +1,7 @@
 main:
+  - title: "Catalog"
+    url: /
+  - title: "Talent"
+    url: /talent/
+  - title: "Philosophy"
+    url: /philosophy/
