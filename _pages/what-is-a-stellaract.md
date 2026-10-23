@@ -1,10 +1,12 @@
 ---
-title: ""
+title: "What is a Stellaract?"
 permalink: /what-is-a-stellaract/
 layout: single
 author_profile: false
 classes: wide
 ---
+
+<style>.page__title { display: none; }</style>
 
 <div style="text-align: center; margin-bottom: 2rem;">
   <img src="/assets/images/favicon.png" alt="The Stellaract Compass" style="max-width: 120px; width: 100%; height: auto;">
