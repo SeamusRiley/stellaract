@@ -33,7 +33,7 @@ The title "Architect" comes from the Greek "arkhi" meaning "chief" and "tekton" 
 
 ## Finishes
 
-A finish is where a building meets the hand and the weather, so we choose finishes on the real material, in real light, before anything is ordered. Stains and sealers are tested on the actual boards, colors are judged after they cure, and everything is specified for how it will age outdoors, not how it looks in the can.
+No imitation finish materials. No monochrome color pallets.
 
 ## Ella's Rule
 
