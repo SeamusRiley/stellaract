@@ -19,7 +19,7 @@ Most companies have a mission statement, a values list, a vision. At Stellaract 
 
 ## Post-Frame
 
-A building without a structure is like a story without a plot. At Stellaract we design integrated buildings with expressed structural elements that harmonize with the building's program, reduce part count, and widen clear-spans for windows and doors.
+A building without a structure is like a novel without a plot. At Stellaract we design integrated buildings with expressed structural elements that harmonize with the building's program, reduce part count, and widen clear-spans for windows and doors.
 
 <div style="display: flex; gap: 1rem; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
 <figure style="text-align: center; flex: 1 1 300px; max-width: 48%; margin: 0;">
