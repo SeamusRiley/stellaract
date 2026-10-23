@@ -14,7 +14,7 @@ classes: wide
   <img src="/assets/images/bio-photo.jpg" alt="Seamus Riley" style="width: 260px; height: 260px; object-fit: cover; border-radius: 50%;">
 </div>
 
-<img src="/assets/images/seamus-name.svg" alt="Seamus Riley" style="max-width: 360px; width: 100%; height: auto;">
+<img src="/assets/images/seamus-name.svg" alt="Seamus Riley" style="max-width: 180px; width: 100%; height: auto;">
 
 **Designer, Builder, Founder**
 
