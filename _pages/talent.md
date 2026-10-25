@@ -31,3 +31,10 @@ Reach Seamus at <a href="mailto:s.rileybyrne@gmail.com">s.rileybyrne@gmail.com</
 **Scheduling Coordinator**
 
 Nova keeps Stellaract running on paper. She schedules appointments, answers email, and makes lists to ensure nothing quietly falls off. She works remotely, loves flowers and photography, and can be reached at <a href="mailto:novagives@gmail.com">novagives@gmail.com</a> or <a href="tel:+16085715147">608 571 5147</a>.
+<div style="text-align: center; margin: 2.5rem 0 1rem;">
+  <img src="/assets/images/elias-byrne.jpg" alt="Elias Byrne" style="width: 260px; height: 260px; object-fit: cover; border-radius: 50%;">
+</div>
+
+<span style="font-size: 1.8rem;">Elias Byrne</span>
+
+**Financial Counsel**
