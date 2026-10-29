@@ -18,7 +18,7 @@ classes: wide
 
 **Designer, Builder, Founder**
 
-Seamus graduated at the top of his class in Architectural Technology and spent the first six years of his career drafting hospitals and studying philosophy. In 2026 he quit his day job and founded Stellaract to do architecture his own way. In his free time he likes to dance and post on Twitter.
+Seamus B. Riley graduated at the top of his class in Architectural Technology and spent the first six years of his career drafting hospitals and studying philosophy. In 2026 he quit his day job and founded Stellaract to do architecture his own way. In his free time he likes to dance and post on Twitter.
 
 Reach Seamus at <a href="mailto:s.rileybyrne@gmail.com">s.rileybyrne@gmail.com</a> or <a href="tel:+16088432556">608 843 2556</a>.
 
@@ -30,7 +30,7 @@ Reach Seamus at <a href="mailto:s.rileybyrne@gmail.com">s.rileybyrne@gmail.com</
 
 **Scheduling Coordinator**
 
-Nova keeps Stellaract running smoothly. She schedules appointments, answers email, and makes lists to ensure nothing quietly falls off. She works remotely, loves flowers and photography, and can be reached at <a href="mailto:novagives@gmail.com">novagives@gmail.com</a> or <a href="tel:+16085715147">608 571 5147</a>.
+Nova G. Ives keeps Stellaract running smoothly. She schedules appointments, answers email, and makes lists to ensure nothing quietly falls off. She works remotely, loves flowers and photography, and can be reached at <a href="mailto:novagives@gmail.com">novagives@gmail.com</a> or <a href="tel:+16085715147">608 571 5147</a>.
 <div style="text-align: center; margin: 2.5rem 0 1rem;">
   <img src="/assets/images/elias-byrne.jpg" alt="Elias Byrne" style="width: 260px; height: 260px; object-fit: cover; border-radius: 50%;">
 </div>
