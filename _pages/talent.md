@@ -35,6 +35,6 @@ Nova keeps Stellaract running smoothly. She schedules appointments, answers emai
   <img src="/assets/images/elias-byrne.jpg" alt="Elias Byrne" style="width: 260px; height: 260px; object-fit: cover; border-radius: 50%;">
 </div>
 
-<span style="font-size: 1.8rem;">Elias Byrne</span>
+<img src="/assets/images/elias-signature.png" alt="Elias Byrne" style="max-width: 180px; width: 100%; height: auto;">
 
 **Financial Counsel**
