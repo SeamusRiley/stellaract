@@ -38,3 +38,5 @@ Nova keeps Stellaract running smoothly. She schedules appointments, answers emai
 <img src="/assets/images/elias-signature.png" alt="Elias Byrne" style="max-width: 180px; width: 100%; height: auto;">
 
 **Financial Counsel**
+
+S. Eli Byrne is a tax accountant. He helps keep Seamus under control.
