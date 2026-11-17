@@ -10,8 +10,8 @@ classes: wide
   <img src="/assets/images/talent-header.png" alt="Stellaract Talent" style="max-width: 200px; width: 100%; height: auto;">
 </div>
 
-<div style="text-align: center; margin-bottom: 1rem;">
-  <img src="/assets/images/bio-photo.jpg" alt="Seamus Riley" style="width: 260px; height: 260px; object-fit: cover; border-radius: 50%;">
+<div style="text-align: left; margin-bottom: 1rem;">
+  <img src="/assets/images/bio-photo.jpg" alt="Seamus Riley" style="width: 260px; height: auto;">
 </div>
 
 <a href="https://www.seamusriley.com/"><img src="/assets/images/seamus-name.svg" alt="Seamus Riley" style="max-width: 180px; width: 100%; height: auto;"></a>
@@ -22,8 +22,8 @@ Seamus B. Riley graduated at the top of his class in Architectural Technology an
 
 Reach Seamus at <a href="mailto:s.rileybyrne@gmail.com">s.rileybyrne@gmail.com</a> or <a href="tel:+16088432556">608 843 2556</a>.
 
-<div style="text-align: center; margin: 2.5rem 0 1rem;">
-  <img src="/assets/images/chicory.jpg" alt="Chicory, for Nova Ives" style="width: 260px; height: 260px; object-fit: cover; border-radius: 50%;">
+<div style="text-align: left; margin: 2.5rem 0 1rem;">
+  <img src="/assets/images/chicory.jpg" alt="Chicory, for Nova Ives" style="width: 260px; height: auto;">
 </div>
 
 <img src="/assets/images/nova-signature.png" alt="Nova G. Ives" style="max-width: 180px; width: 100%; height: auto;">
@@ -31,8 +31,8 @@ Reach Seamus at <a href="mailto:s.rileybyrne@gmail.com">s.rileybyrne@gmail.com</
 **Scheduling Coordinator**
 
 Nova G. Ives keeps Stellaract running smoothly. She schedules appointments, answers email, and makes lists to ensure nothing quietly falls off. She works remotely, loves flowers and photography, and can be reached at <a href="mailto:novagives@gmail.com">novagives@gmail.com</a> or <a href="tel:+16085715147">608 571 5147</a>.
-<div style="text-align: center; margin: 2.5rem 0 1rem;">
-  <img src="/assets/images/elias-byrne.jpg" alt="Elias Byrne" style="width: 260px; height: 260px; object-fit: cover; border-radius: 50%;">
+<div style="text-align: left; margin: 2.5rem 0 1rem;">
+  <img src="/assets/images/elias-byrne.jpg" alt="Elias Byrne" style="width: 260px; height: auto;">
 </div>
 
 <img src="/assets/images/elias-signature.png" alt="Elias Byrne" style="max-width: 180px; width: 100%; height: auto;">
