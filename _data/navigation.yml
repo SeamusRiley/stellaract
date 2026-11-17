@@ -3,3 +3,5 @@ main:
     url: /talent/
   - title: "Philosophy"
     url: /philosophy/
+  - title: "Calendar"
+    url: /calendar/
